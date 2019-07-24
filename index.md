@@ -5,7 +5,9 @@ I love problem solving and computers are tools that let us solve amazing problem
 # Noteworthy Projects
 
 ## EatUp
-![](gif_test.gif)
+<p align="center">
+    <img src="gif_test.gif" width="256">
+</p>
 
 ## MapMark
 
