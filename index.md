@@ -4,6 +4,9 @@ I love problem solving and computers are tools that let us solve amazing problem
 
 # Noteworthy Projects
 
+## EatUp
+![](gif_test.gif)
+
 ## MapMark
 
 ## Bayesian-Sequence
