@@ -18,6 +18,7 @@ I love problem solving and computers are tools that let us solve amazing problem
 ## MapMark - iOS
 <p align="center">
 <img src="mapmark.gif" height="400">
+</p>
 
 
 ## Bayesian-Sequence
