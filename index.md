@@ -1,6 +1,6 @@
 # About Me
-<p align="left">
-    <img src="nick_rogers.png" width="256">
+<p align="center">
+    <img src="nick_rogers_cropped.png" width="256">
 </p>
 
 I love problem solving and computers are tools that let us solve amazing problems — everything from what user interfaces best allow people to freely share their thoughts with each other to how best to design an algorithm to search across vast records stored in a database.
