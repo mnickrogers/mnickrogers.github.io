@@ -6,7 +6,11 @@
     <img src="nick_rogers_cropped.png" width="256">
 </p>
 
-I love problem solving and computers are tools that let us solve amazing problems — everything from what user interfaces best allow people to freely share their thoughts with each other to how best to design an algorithm to search across vast records stored in a database. Check out my GitHub account [here](https://github.com/mnickrogers).
+A self-taught programmer, I love problem solving and enjoy spending time building tools and front-end projects that inspire and excite. I have published a few iOS apps and I am comfortable working in C/C++, Swift, Objective-C and Python. Here you will find a curated list of some of my favorite and most current projects. [Check out my GitHub account](https://github.com/mnickrogers) for more.
+
+<p align="center">
+[LinkedIn](https://www.linkedin.com/in/mnickrogers/)
+</p>
 
 # Noteworthy Projects
 
@@ -46,7 +50,10 @@ I opted for a modified BFS method over some others for two reasons. The first wa
 
 In the future, I can update this to show some stats other than just visualize a route (for example, it could list the route's length, driving time, etc.).
 
-## Bayesian-Sequence
+## Other Github Repos
+
+## Bayesian-Sequence (C++)
 [Check it out here!](https://github.com/mnickrogers/Bayesian-Sequence) This is one I'm still in the middle of, but the idea is pretty simple: Bayesian inference gives us a method of calculating probabilities based on our prior knowledge and observed events. This project creates a way to sequence observations into a synchronized prediction.
 
-## Github Repos
+## Collapsible-TableView (Swift)
+Located [here](https://github.com/mnickrogers/Collapsible-TableView). An implementation of a data model allowing a UITableView to be collapsed by its headers.
