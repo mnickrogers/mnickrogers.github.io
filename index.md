@@ -18,6 +18,8 @@ Remember what you like to eat each time you visit a restaurant.
     <img src="eatup.gif" height="400">
 </p>
 
+[EatUp](https://apps.apple.com/us/app/eatup-save-restaurants-and-food/id1224974237) gives users the ability to save food, restaurants and recipes; food can be associated with a given restaurant and restaurants can be displayed by nearby location, allowing folks to recall exactly what they've had before when they return to a restaurant. Designing and coding EatUp required writing a lot of custom views in order to get the overall desired look and feel. The light animations are supposed to contrast the heavy solid blocks of colored space created by the UI elements. From an engineering perspective, EatUp utilizes Core Data to store information and also needed to optimize custom user images to efficiently layout and display in a collection view without overusing system resources.
+
 ## MapMark - iOS
 
 Location bookmarking and grouping done right.
@@ -28,7 +30,7 @@ Location bookmarking and grouping done right.
 
 ### About
 
-MapMark is a navigational and reference utility that allows users to bookmark locations and organize them under different "bags." For example, you could create a bag for your upcoming vacation and save all the places you wish to visit within it. You can add notes to pins that you have saved as well. Additionally, you can get routes through all the pins within a bag. MapMark allows you to export your bookmarked locations, within their associated bags, as a CSV file.
+[MapMark](https://apps.apple.com/us/app/mapmark/id1131505775) is a navigational and reference utility that allows users to bookmark locations and organize them under different "bags." For example, you could create a bag for your upcoming vacation and save all the places you wish to visit within it. You can add notes to pins that you have saved as well. Additionally, you can get routes through all the pins within a bag. MapMark allows you to export your bookmarked locations, within their associated bags, as a CSV file.
 
 Building MapMark was an exciting challenge in both interface design and software engineering. In terms of interface design, the goal was to strike a balance between presenting information about bookmarked locations within a bag while also not distracting from the map that helps to visualize this information. From an engineering perspective, achieving my desired look required writing my own custom interface elements (such as the unique dark-themed buttons); it also required learning how to store and manipulate geospatial information. 
 
