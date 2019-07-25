@@ -6,7 +6,7 @@
     <img src="nick_rogers_cropped.png" width="256">
 </p>
 
-I love problem solving and computers are tools that let us solve amazing problems — everything from what user interfaces best allow people to freely share their thoughts with each other to how best to design an algorithm to search across vast records stored in a database.
+I love problem solving and computers are tools that let us solve amazing problems — everything from what user interfaces best allow people to freely share their thoughts with each other to how best to design an algorithm to search across vast records stored in a database. Check out my GitHub account [here](https://github.com/mnickrogers).
 
 # Noteworthy Projects
 
