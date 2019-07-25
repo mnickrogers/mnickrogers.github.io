@@ -1,4 +1,3 @@
-# About Me
 <p align="center">
     <img src="nick_rogers_cropped.png" width="256">
 </p>
