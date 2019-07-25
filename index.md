@@ -11,11 +11,17 @@ I love problem solving and computers are tools that let us solve amazing problem
 # Noteworthy Projects
 
 ## EatUp - iOS
+
+Remember what you like to eat each time you visit a restaurant.
+
 <p align="center">
     <img src="eatup.gif" height="400">
 </p>
 
 ## MapMark - iOS
+
+Location bookmarking and grouping done right.
+
 <p align="center">
 <img src="mapmark.gif" height="400">
 </p>
