@@ -5,7 +5,10 @@ I love problem solving and computers are tools that let us solve amazing problem
 # Noteworthy Projects
 
 ## EatUp
-<p align="center">
+<p align="right">
+    <img src="gif_test.gif" width="256">
+</p>
+<p align="left">
     <img src="gif_test.gif" width="256">
 </p>
 
@@ -13,3 +16,5 @@ I love problem solving and computers are tools that let us solve amazing problem
 
 ## Bayesian-Sequence
 [Check it out here!](https://github.com/mnickrogers/Bayesian-Sequence) This is one I'm still in the middle of, but the idea is pretty simple: Bayesian inference gives us a method of calculating probabilities based on our prior knowledge and observed events. This project creates a way to sequence observations into a synchronized prediction.
+
+# Github Repos
