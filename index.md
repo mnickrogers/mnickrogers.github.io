@@ -9,7 +9,7 @@
 A self-taught programmer, I love problem solving and enjoy spending time building tools and front-end projects that inspire and excite. I have published a few iOS apps and I am comfortable working in C/C++, Swift, Objective-C and Python. Here you will find a curated list of some of my favorite and most current projects. [Check out my GitHub account](https://github.com/mnickrogers) for more.
 
 <p align="center">
-[LinkedIn](https://www.linkedin.com/in/mnickrogers/)
+<a href="https://www.linkedin.com/in/mnickrogers/">LinkedIn</a>
 </p>
 
 # Noteworthy Projects
